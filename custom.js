@@ -1,3 +1,0 @@
-function downloadResume() {
-  alert("download")
-}
