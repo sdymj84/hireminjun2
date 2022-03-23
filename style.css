@@ -10059,7 +10059,7 @@ also rich-text.less has its own sprite-sheet */
       display: block;
       padding: 8px 10px;
       background: white;
-      color: #333333;
+      color: #305676333;
       font-family: inherit;
       font-size: inherit;
       text-shadow: none;
@@ -10763,7 +10763,7 @@ also rich-text.less has its own sprite-sheet */
     }
 
     .w-editor-bem-RTToolbar-FigureSettingsModal_Tab-selected {
-      border-bottom-color: #333;
+      border-bottom-color: #305676;
     }
 
     .w-editor-bem-RTToolbar-FigureSettingsModal_Tab-selected {
