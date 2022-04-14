@@ -293,6 +293,9 @@
      line-height: 58px;
      font-weight: 800;
    }
+   .h1.small {
+     font-size: 40px;
+   }
    
    .h1.bottom-margin {
      position: relative;
@@ -1769,6 +1772,9 @@
        font-size: 42px;
        line-height: 48px;
      }
+     .h1.small {
+       font-size: 35px;
+     }
    
      .h1.bottom-margin {
        margin-top: 20px;
@@ -1917,6 +1923,9 @@
      .h1 {
        font-size: 42px;
        line-height: 46px;
+     }
+     .h1.small {
+       font-size: 25px;
      }
    
      .h1.bottom-margin {
